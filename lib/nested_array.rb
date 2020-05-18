@@ -48,8 +48,11 @@ end
 def matrix_lookup(matrix, row, column)
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
-   array(matrix, row, column)
-   array[1][1]
+   matrix(array_of_array)
+   row(array_of_array)
+   column(value_of_array)
+   
+   
   
 end
 
